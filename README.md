@@ -1,4 +1,8 @@
 - 👋 Hi, I’m @Sachindhakad969
+
+- I'm a passionate Data Analyst with a strong background in data manipulation, visualization, and statistical analysis. I love turning raw data into actionable insights that 
+  drive business decisions.
+  
 - 👀 I’m interested in Data Analyst , Data Visualization , Data Modeling And Data Minig
 - 🌱 I’m currently learning ( Power BI , MySqle , Python , ML And Pandas )
 - 💞️ Analysis
