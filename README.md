@@ -9,7 +9,7 @@
 
 
 
-- Languages and Tools:
+- Languages and Tools :-  
     Python , Power BI , MySqle and VScode
 - ![Screenshot 2024-12-16 143213](https://github.com/user-attachments/assets/42138bda-c018-48a5-beb0-52ca0824c719)
 
