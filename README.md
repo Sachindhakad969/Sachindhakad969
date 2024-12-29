@@ -4,7 +4,7 @@
   drive business decisions.
   
 - 👀 I’m interested in Data Analyst , Data Visualization , Data Modeling And Data Minig
-- 🌱 I’m currently learning ( Power BI , MySqle , Python , ML And Pandas )
+- 🌱 I’m currently learning ( Power BI , Tableau , MySqle , Python , ML And Pandas )
 - 💞️ Analysis
 - 📫 How to reach me Click here - sachindhakad969@gmail.com
 - ⚡ Fun fact I am curious to learning new things And Focus  on : Data Analysis
